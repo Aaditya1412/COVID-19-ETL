@@ -1,5 +1,5 @@
 # Covid-19 Infection ETL Project
-By Sanjoy Biswas
+By Aaditya Rajeev
 
 ## Project Proposal
 Based upon the data compiled by John Hopkins University, I want to explore ''' Insert reasons here'''
